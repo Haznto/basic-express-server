@@ -2,6 +2,12 @@
 
 ## Links of Work
 
+Deployed link [Visit](https://basic-server-njyh.onrender.com/)
+
+Pull Request [Visit](https://github.com/Haznto/basic-express-server/pull/1)
+
+GitHub Actions [Visit](https://github.com/Haznto/basic-express-server/actions)
+
 ## About the project
 
 it's a basic express server that has 2 endpoints paths, one for home and the other for `/person`
